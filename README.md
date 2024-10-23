@@ -25,3 +25,10 @@ Azuriranje repozitorija je moguce komandom (terminal mora biti otvoren u direkto
 
     git pull
 
+Moguce je preuzeti xv6 source code (radi se na predavanjima) sa komandom ispod
+
+    git clone https://github.com/mit-pdos/xv6-public.git
+
+Mouguce je preuzeti jos source code (radi se na vjezbama) code sa komandom ispod
+
+    git clone https://github.com/phlalx/jos.git
